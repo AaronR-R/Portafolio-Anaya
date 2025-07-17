@@ -1,0 +1,119 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.hero {
+    background-color: #1e1e1e;
+    padding: 5rem 1rem;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    color: #bbbbbb;
+}
+
+section {
+    padding: 4rem 0;
+}
+
+footer {
+    background-color: #1e1e1e;
+    color: #888;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.custom-img {
+    width: 100%;
+    max-width: 400px; /* Ajusta el tamaño deseado */
+    height: auto;
+}
+
+.tag-badge {
+    position: absolute;
+    background-color: #333;
+    color: white;
+    padding: 6px 12px;
+    font-size: 0.8rem;
+    border-radius: 6px;
+    z-index: 2;
+}
+
+.text-justify {
+    color:#000000;
+    max-width: 600px;
+    text-align: justify;
+}
+
+
+.btn-lg-custom {
+    padding: 12px 24px;
+    font-size: 1rem;
+    border-radius: 8px;
+}
+
+.btn-hello {
+    background-color: #6b705c !important; /* tu color personalizado */
+    font-size: 1.2rem;
+    color: white !important;
+}
+.btn-hello:hover {
+    background-color: #383b31 !important; /* tono más oscuro al pasar el mouse */
+    color: white !important;
+}
+
+.service-heading {
+    border-bottom: 1px solid #888;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 1rem;
+    color: #ddd;
+    letter-spacing: 0.5px;
+}
+
+.btn-service {
+    background-color: #555;
+    color: #fff;
+    border-radius: 8px;
+    padding: 5px 14px;
+    font-size: 0.9rem;
+    border: none;
+}
+
+.btn-service:hover {
+    background-color: #777;
+    color: #fff;
+    }
+
+.btn-contact {
+    background-color: white;
+    color: black;
+    font-weight: 500;
+    padding: 10px 28px;
+    border-radius: 30px;
+    border: none;
+    }
+
+.btn-contact:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.service-footer-text {
+    color: #aaa;
+    font-size: 0.85rem;
+    margin-top: 20px;
+}
+
+.service-title{
+    font-size: 1.1rem;
+}
